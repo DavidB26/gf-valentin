@@ -112,7 +112,7 @@ export default function Home() {
                 {item.id === 2 && (
                   <div className='align-middle mb-10'>
                     <Image
-                      src='/First-Photo.webp'
+                      src='/photo-1.webp'
                       className='rounded-2xl'
                       alt='Primera foto juntos'
                       width={500}
